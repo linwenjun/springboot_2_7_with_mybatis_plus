@@ -1,0 +1,13 @@
+{
+  "name": "姓名",
+  "details": [
+    {
+      "type": "age",
+      "item": "12"
+    },
+    {
+      "type": "agenda",
+      "item": "male"
+    }
+  ]
+}
